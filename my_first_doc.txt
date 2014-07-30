@@ -3,3 +3,5 @@ line2
 NEW LINE
 LEW lINE2
 a test line
+
+hello!
